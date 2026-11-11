@@ -38,15 +38,6 @@ I specialize in building intelligent applications, end-to-end full-stack web sol
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrajanyaSahu&show_icons=true&theme=radial&hide_border=true" alt="Prajanya's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajanyaSahu&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajanya-sahu)
